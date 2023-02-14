@@ -1,0 +1,24 @@
+.text-center {
+    text-align: center;
+}
+.mx-auto {
+    margin: auto;
+}
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.item-center {
+    align-items: center;
+}
+.button-color-grey {
+    background-color: rgb(120, 117, 117);
+}
+.button-color-Yellow {
+    background-color: rgb(228, 175, 30);
+}
+.font-bold {
+    font-weight: bold;
+}
